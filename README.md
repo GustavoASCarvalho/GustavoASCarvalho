@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/GustavoASCarvalho/GustavoASCarvalho/blob/main/Assets/Github_header_profile.png">
+</p>
 
-<!--
-**GustavoASCarvalho/GustavoASCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---------
+### :space_invader: &nbsp;Sobre mim
 
-Here are some ideas to get you started:
+<img src="https://c.tenor.com/45bmFkoznYMAAAAC/great-job.gif" height="150px" width="258.75px" align="right">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Trabalhando como trainee de técnologia (IBM Datapower, CA API Gateway) na [MJV](https://www.mjvinnovation.com/pt-br/). \
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Buscando sempre o próximo nível. \
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Pesquisando sobre angular, node e afins.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Programando desde 2018, quando entrei no curso técnico de informatica na [IFPR](https://paranagua.ifpr.edu.br/) de Paranaguá.\
+&nbsp;&nbsp;&nbsp;:computer: &nbsp;Apaixonado por games :joystick: e filmes :clapper:.
