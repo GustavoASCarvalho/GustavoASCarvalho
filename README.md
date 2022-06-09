@@ -7,8 +7,9 @@
 
 <img src="https://c.tenor.com/45bmFkoznYMAAAAC/great-job.gif" height="150px" width="258.75px" align="right">
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Trabalhando como trainee de técnologia (IBM Datapower, CA API Gateway) na [MJV](https://www.mjvinnovation.com/pt-br/). \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Trabalhando como trainee de técnologia (IBM Datapower, CA API Gateway) na [MJV](https://www.mjvinnovation.com/pt-br/).\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Buscando sempre o próximo nível. \
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Pesquisando sobre angular, node e afins.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Programando desde 2018, quando entrei no curso técnico de informatica na [IFPR](https://paranagua.ifpr.edu.br/) de Paranaguá.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Pesquisando sobre angular, node e jest.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Programando desde 2018. \
+&nbsp;&nbsp;&nbsp;:school_satchel: &nbsp; Formado no curso técnico de informatica na [IFPR](https://paranagua.ifpr.edu.br/) de Paranaguá.\
 &nbsp;&nbsp;&nbsp;:computer: &nbsp;Apaixonado por games :joystick: e filmes :clapper:.
