@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/GustavoASCarvalho/GustavoASCarvalho/blob/main/Assets/Github_header_profile.png">
-</p>
+</p> -->
 
 ---------
 ### :space_invader: &nbsp;Sobre mim
