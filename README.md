@@ -11,4 +11,4 @@
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Buscando sempre o próximo nível. \
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Pesquisando sobre angular, node e jest.\
 &nbsp;&nbsp;&nbsp;:school_satchel: &nbsp;Formado no curso técnico de informatica na [IFPR](https://paranagua.ifpr.edu.br/) de Paranaguá em 2022.\
-&nbsp;&nbsp;&nbsp;:computer: &nbsp;Apaixonado por games :joystick: e filmes e séries :clapper:.
+&nbsp;&nbsp;&nbsp;:computer: &nbsp;Apaixonado por games :joystick: filmes e séries :clapper:.
